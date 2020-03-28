@@ -54,18 +54,14 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
 
 # next.js build output
 .next
 
 # model files
-public/model/model.json
 public/model/*shard*
 
 .DS_Store
 dist/
 build/
-*.h5
 my-model/
