@@ -2,7 +2,7 @@
 
 # Create a progressive web application with react
 
-##preinstall Nofr.js snd npm manager
+##preinstall Node.js snd npm manager
 
 ##1
 Download the file or git clone https://github.com/avant10/react
